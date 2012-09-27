@@ -39,7 +39,7 @@ public class HighScorePage3 extends JFrame implements ActionListener
 		
 		setVisible(true);
 		
-		UpdateScores.getScores("SnakeGameScore3");
+		//UpdateScores.getScores("SnakeGameScore3");
 		
 		readScore();
 	}

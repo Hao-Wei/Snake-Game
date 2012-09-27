@@ -36,7 +36,7 @@ public class HighScorePage extends JFrame implements ActionListener
 		
 		setVisible(true);
 		
-		UpdateScores.getScores("SnakeGameScore1");
+		//UpdateScores.getScores("SnakeGameScore1");
 		
 		readScore();
 	}

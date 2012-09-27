@@ -183,12 +183,12 @@ public class SaveHighScore1 extends JFrame implements ActionListener
 			{
 				addHighScore();
 				addScore();
-				if (game == 1)
+				/*if (game == 1)
 					UpdateScores.sendScores("SnakeGameScore1", name);
 				else if (game == 2)
 					UpdateScores.sendScores("SnakeGameScore2", name);
 				else
-					UpdateScores.sendScores("SnakeGameScore3", name);
+					UpdateScores.sendScores("SnakeGameScore3", name);*/
 			}
 		}
 		else
